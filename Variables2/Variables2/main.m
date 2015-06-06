@@ -17,6 +17,8 @@ int main(int argc, const char * argv[]) {
                 *border = @"\n+";
         
         //Create top and bottom borders
+        //Hello Henna!!
+        //Let's eat some doughnuts!
 
         for (int i = 0; i<50; i++) {
             border = [border stringByAppendingString:@"-"];
